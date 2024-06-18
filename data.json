@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A novel set in the 1920s, telling the story of Jay Gatsby and his unrequited love for Daisy Buchanan.",
+    "publishedYear": 1925,
+    "price": 10.99
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A story of racial injustice and childhood innocence in the American South, seen through the eyes of Scout Finch.",
+    "publishedYear": 1960,
+    "price": 7.99
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel set in a totalitarian society ruled by Big Brother.",
+    "publishedYear": 1949,
+    "price": 8.99
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic romance novel that deals with issues of class, marriage, and morality.",
+    "publishedYear": 1813,
+    "price": 6.99
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "description": "The saga of Captain Ahab's obsessive quest to kill the white whale, Moby Dick.",
+    "publishedYear": 1851,
+    "price": 9.99
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "description": "A historical novel that tells the story of Russian society during the Napoleonic Era.",
+    "publishedYear": 1869,
+    "price": 12.99
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A story about teenage rebellion and angst, as narrated by Holden Caulfield.",
+    "publishedYear": 1951,
+    "price": 6.99
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy novel that follows the journey of Bilbo Baggins as he seeks to win a share of the treasure guarded by Smaug the dragon.",
+    "publishedYear": 1937,
+    "price": 8.99
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "A dystopian novel set in a futuristic world state where citizens are conditioned to follow a set of prescribed behaviors.",
+    "publishedYear": 1932,
+    "price": 7.99
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy that follows the quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+    "publishedYear": 1954,
+    "price": 14.99
+  }
+]
